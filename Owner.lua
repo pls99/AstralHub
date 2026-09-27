@@ -1,5 +1,5 @@
 return {
-    ["vcsk0"] = true,
+    ["ptimin"] = true,
     ["TOXIC_SOLOZ"] = true,
     ["AstralX0"] = true,
 }
